@@ -9,7 +9,7 @@ My first iOS App. Well... not quite satisfied with this one, but one has to star
 - A lot of dynamic layouting discovery. Things like:  tableView.layoutMargins = UIEdgeInsets.zero
 - A fair exploration of the TableView delegate functions
 - Absolutely NO auto-layout. 
-- An honest attempt to solve a real, human, problem. 
+- A honest attempt to solve a real problem, even with very limited technical resources. 
 
 So my first poject went like this: 
 
