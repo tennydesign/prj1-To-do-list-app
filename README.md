@@ -1,4 +1,4 @@
-# prj1-To-do-list-app
+# My very first project: A To Do List app.
 My first iOS App. Well... not quite satisfied with this one, but one has to start somewhere. This project features: 
 
 - Some honest use of OOP. 
