@@ -1,5 +1,5 @@
 # prj1-To-do-list-app
-My first iOS App. Well... not quite satisfied with this one, but one has to start somewhere. This project feature: 
+My first iOS App. Well... not quite satisfied with this one, but one has to start somewhere. This project features: 
 
 - Some honest use of OOP. 
 - Extensive (and often unnecessary) use of closures. Things like:  activeTasks = (filterTodayTasks() ?? []).filter({ $0.done == false})
