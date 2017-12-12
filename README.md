@@ -11,7 +11,7 @@ My first iOS App. Well... not quite satisfied with this one, but one has to star
 - Absolutely NO auto-layout. 
 - A honest attempt to solve a real problem, even with very limited technical resources. 
 
-So my first poject went like this: 
+So my first project went like this: 
 
 I tried to create a very simple, yet extremely functional task list app. While coding it I tried to challenge myself to solve a real problem, offer something new to TODO Apps but, yet, something users could really find it helpful. The two functionalities that added this flavor to the app are:
 
