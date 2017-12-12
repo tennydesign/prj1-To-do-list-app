@@ -24,6 +24,7 @@ UX heuristic #6: Recognition rather than recall.
 Also, for this first app I tried to draw the Model first, and to create an OOP structure instead of using open arrays and dictionaries.
 
 ** This App ranked #2 out of 15 in the the class (General Assembly iOS immersive SF). Check: #1 Sheeja and #3 Jun's.(link soon)
+
 Total hacking time: 40 hours.
 
 ![firstapp](https://user-images.githubusercontent.com/17029800/33860013-812cf1e4-de8b-11e7-9af0-3e9fdc9bfa51.jpg)
